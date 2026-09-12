@@ -1,0 +1,21 @@
+EmployeeID,EmployeeName,Gender,Department,Age,Salary,JoiningDate,City
+EMP101,Aarav Singh,MALE,Engineering,52,70000,2022-05-15,Pune
+EMP102,Vivaan Sharma,F,Engineering,-2,42000,21-Aug-2024,Pune
+EMP103,Aditya Desai,female,Sales,31,44000,07/11/2022,Pune
+EMP104,Vihaan Pillai,MALE,HR,32,78000,2022-03-29,Delhi
+EMP105,Arjun Sharma,F,Sales,150,75000,2024-05-24,Chennai
+EMP106,Sai Chauhan,F,Finance,45,Rs.36000,15-Mar-2022,Mumbai
+EMP107,Ishaan Malhotra,male,Engineering,49,₹79000,2023-09-09,Chennai
+EMP108,Rohan Joshi,Female,Marketing,44,64000,2024-04-14,Pune
+EMP109,Karthik Singh,F,HR,39,68000,2022-12-01,Hyderabad
+EMP110,Ananya Das,MALE,Finance,39,48000,12/09/2022,Bangalore
+EMP111,Diya Malhotra,F,HR,44,Rs.81000,17/05/2022,Chennai
+EMP112,Aadhya Reddy,male,Engineering,49,79000,2024-04-30,Bangalore
+EMP113,Saanvi Verma,Male,Sales,43,65000,26/07/2023,Pune
+EMP114,Myra Singh,MALE,Engineering,22,34000,10/08/2022,Pune
+EMP115,Anika Desai,M,Finance,17,₹48000,24-Jun-2023,Mumbai
+EMP116,Kavya Verma,Female,Engineering,45,38000,13-Feb-2024,Chennai
+EMP117,Riya Kapoor,Female,Marketing,28,69000,04-Nov-2024,Delhi
+EMP118,Meera Bose,Male,Engineering,49,46000,2024-12-03,Delhi
+EMP119,Sneha Desai,F,HR,48,67000,07-Oct-2023,Bangalore
+EMP120,Rahul Pillai,MALE,HR,43,59000,24/12/2023,Hyderabad

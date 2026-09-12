@@ -1,0 +1,46 @@
+SKU,ProductName,StockQty,UnitCost,ReorderLevel,StockStatus
+SKU1044,Router,60,2199,20,In Stock
+SKU1034,Mechanical Keyboard,8,2499,25,Low Stock
+SKU1026,Laptop Sleeve,60,599,25,In Stock
+SKU1019,USB-C Cable,40,199,25,In Stock
+SKU1010,Monitor Stand,0,899,15,Out of Stock
+SKU1014,Noise Cancelling Earbuds,40,3999,25,In Stock
+SKU1007,Wireless Mouse,0,499,20,Out of Stock
+SKU1037,External SSD,60,4499,10,In Stock
+SKU1035,USB-C Cable,40,199,20,In Stock
+SKU1013,Laptop Sleeve,8,599,10,Low Stock
+SKU1016,HDMI Cable,40,249,10,In Stock
+SKU1005,HDMI Cable,18,249,25,Low Stock
+SKU1028,Wireless Charger,12,899,25,Low Stock
+SKU1042,Router,90,2199,25,In Stock
+SKU1017,Noise Cancelling Earbuds,75,3999,15,In Stock
+SKU1039,Wireless Mouse,35,499,20,In Stock
+SKU1012,Wireless Mouse,5,499,20,Low Stock
+SKU1008,Wireless Charger,22,899,15,In Stock
+SKU1038,Gaming Mouse Pad,75,349,20,In Stock
+SKU1032,Noise Cancelling Earbuds,50,3999,20,In Stock
+SKU1036,Wireless Mouse,90,499,15,In Stock
+SKU1046,Laptop Sleeve,40,599,20,In Stock
+SKU1006,Router,5,2199,20,Low Stock
+SKU1040,Monitor Stand,40,1099,25,In Stock
+SKU1002,Phone Case,35,299,20,In Stock
+SKU1029,Noise Cancelling Earbuds,22,3999,10,In Stock
+SKU1003,Noise Cancelling Earbuds,40,3999,25,In Stock
+SKU1023,Webcam,90,1799,25,In Stock
+SKU1031,Screen Protector,12,149,25,Low Stock
+SKU1018,HDMI Cable,40,249,25,In Stock
+SKU1027,Desk Lamp,120,799,15,In Stock
+SKU1045,Monitor Stand,60,1099,25,In Stock
+SKU1015,External SSD,12,4499,25,Low Stock
+SKU1030,Monitor Stand,40,1099,20,In Stock
+SKU1021,Bluetooth Headphones,60,1299,25,In Stock
+SKU1033,Webcam,40,1799,20,In Stock
+SKU1041,Wireless Mouse,8,499,20,Low Stock
+SKU1011,Monitor Stand,40,1099,15,In Stock
+SKU1020,Wireless Mouse,60,499,25,In Stock
+SKU1022,Noise Cancelling Earbuds,60,3999,10,In Stock
+SKU1001,Phone Case,12,299,15,Low Stock
+SKU1009,Screen Protector,22,149,20,In Stock
+SKU1004,Noise Cancelling Earbuds,75,3999,20,In Stock
+SKU1025,Gaming Mouse Pad,75,349,10,In Stock
+SKU1043,Router,0,2199,20,Out of Stock

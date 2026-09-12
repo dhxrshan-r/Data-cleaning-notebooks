@@ -1,0 +1,32 @@
+StudentID,StudentName,Program,AttendancePercent,AttendanceStatus
+STU401,Aarav Malhotra,Data Science,-10,Present
+STU402,Vivaan Gupta,Electronics,73,Absent
+STU403,Aditya Das,Computer Science,86,present
+STU404,Vihaan Menon,Electronics,59,Absent
+STU405,Arjun Pillai,Mechanical,76,PRESENT
+STU406,Sai Rao,Electronics,NA,PRESENT
+STU407,Ishaan Sharma,Business Administration,99,Present
+STU408,Rohan Iyer,Data Science,76,Present
+STU409,Karthik Sharma,Mechanical,64,absent
+STU410,Ananya Reddy,Mechanical,73,ABSENT
+STU411,Diya Kumar,Electronics,83,Present
+STU412,Aadhya Das,Business Administration,78,Present
+STU413,Saanvi Rao,Business Administration,71,Absent
+STU414,Myra Bose,Mechanical,69,Absent
+STU415,Anika Reddy,Data Science,58,Absent
+STU416,Kavya Desai,Electronics,85,Present
+STU417,Riya Sharma,Business Administration,79,PRESENT
+STU418,Meera Iyer,Electronics,55,absent
+STU419,Sneha Bose,Data Science,61,absent
+STU420,Rahul Kapoor,Electronics,59,absent
+STU421,Amit Pillai,Data Science,62,absent
+STU422,Neha Bhatt,Electronics,94,present 
+STU423,Priya Das,Computer Science,86,PRESENT
+STU424,Divya Patel,Mechanical,80,present 
+STU425,Pooja Gupta,Data Science,59,absent
+STU426,Sanjay Pillai,Mechanical,NA,ABSENT
+STU427,Vikram Kumar,Mechanical,95,Present
+STU428,Deepak Bose,Computer Science,105,PRESENT
+STU429,Nikhil Gupta,Electronics,65,absent
+STU430,Manoj Joshi,Mechanical,83,present 
+STU431,Ravi Iyer,Computer Science,68,ABSENT

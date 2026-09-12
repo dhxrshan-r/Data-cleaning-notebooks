@@ -1,0 +1,47 @@
+SKU,ProductName,StockQty,UnitCost,ReorderLevel,StockStatus
+SKU1044,Router,60,2199,20,IN STOCK
+SKU1034,Mechanical Keyboard,8,2499,25,Low Stock
+SKU1026,Laptop Sleeve,60,599,25,IN STOCK
+SKU1019,USB-C Cable,9999,199,25,IN STOCK
+SKU1010,Monitor Stand,0,abc,15,out of stock
+SKU1014,Noise Cancelling Earbuds,-5,3999,25,Out of Stock
+SKU1007,Wireless Mouse,0,499,20,out of stock
+SKU1037,External SSD,60,4499,10,IN STOCK
+SKU1035,USB-C Cable,40,199,20,in stock
+SKU1013,Laptop Sleeve,8,599,10,Low Stock
+SKU1016,HDMI Cable,40,₹249,10,IN STOCK
+SKU1005,HDMI Cable,18,249,25,Low Stock
+SKU1028,Wireless Charger,12,899,25,Low Stock
+SKU1042,Router,90,2199,25,IN STOCK
+SKU1017,Noise Cancelling Earbuds,75,3999,15,in stock
+SKU1039,Wireless Mouse,35,499,20,in stock
+SKU1012,Wireless Mouse,5,499,,Low Stock
+SKU1008,Wireless Charger,22,899,15,IN STOCK
+SKU1038,Gaming Mouse Pad,75,349,20,in stock
+SKU1032,Noise Cancelling Earbuds,50,3999,20,Out of Stock
+SKU1036,Wireless Mouse,90,499,15,In Stock
+SKU1046,Laptop Sleeve,40,₹599,20,in stock
+SKU1006,Router,5,2199,,Low Stock
+SKU1040,Monitor Stand,15000,1099,25,IN STOCK
+SKU1002,Phone Case,35,299,,IN STOCK
+SKU1029,Noise Cancelling Earbuds,22,3999,10,in stock
+SKU1003,Noise Cancelling Earbuds,abc,3999,25,IN STOCK
+SKU1023,Webcam,90,1799,25,IN STOCK
+SKU1031,Screen Protector,12,149,25,Low Stock
+SKU1018,HDMI Cable,40,249,25,in stock
+SKU1027,Desk Lamp,120,799,15,in stock
+SKU1045, Monitor Stand ,60,1099,25,IN STOCK
+SKU1015,External SSD,12,Rs.4499,25,Low Stock
+SKU1030,Monitor Stand,-12,1099,20,In Stock
+SKU1021,Bluetooth Headphones,60,1299,25,IN STOCK
+SKU1033,Webcam,40,1799,20,In Stock
+SKU1041,Wireless Mouse,8,499,20,Low Stock
+SKU1039,Laptop Sleeve,120,599,25,in stock
+SKU1011, Monitor Stand,40,1099,15,IN STOCK
+SKU1020,Wireless Mouse,60,Rs.499,25,In Stock
+SKU1022, Noise Cancelling Earbuds ,60,3999,10,in stock
+SKU1001,Phone Case,12,299,15,Low Stock
+SKU1009,Screen Protector,22,Rs. 149,20,IN STOCK
+SKU1004, Noise Cancelling Earbuds ,75,3999,20,In Stock
+SKU1025, Gaming Mouse Pad ,75,349,10,in stock
+SKU1043,Router,0,2199,20,In Stock

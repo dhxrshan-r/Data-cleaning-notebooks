@@ -1,0 +1,21 @@
+PatientID,PatientName,Gender,Age,SystolicBP,DiastolicBP,HeartRate,VisitDate,City
+PAT301,Aarav Nair,Male,37,128,73,,10-Jan-2024,Hyderabad
+PAT302,Vivaan Kapoor,FEMALE,150,126,77,85.0,2024-01-16,Delhi
+PAT303,Aditya Singh,F,42,130,73,83.0,21/03/2024,Hyderabad
+PAT304,Vihaan Joshi,Male,30,122,86,77.0,22-Jan-2024,Bangalore
+PAT305,Arjun Iyer,Male,58,115,65,65.0,2024-02-05,Mumbai
+PAT306,Sai Pillai,female,57,134,,66.0,23-Mar-2024,Hyderabad
+PAT307,Ishaan Nair,FEMALE,31,260,150,91.0,06-Mar-2024,Hyderabad
+PAT308,Rohan Gupta,F,48,124,,91.0,2024-02-06,Pune
+PAT309,Karthik Patel,M,27,131,67,77.0,05/02/2024,Bangalore
+PAT310,Ananya Sharma,Male,67,126/84,,93.0,2024-03-16,Bangalore
+PAT311,,F,63,110,82,84.0,28-Feb-2024,Delhi
+PAT312,Aadhya Malhotra,FEMALE,47,118,84,66.0,02/02/2024,
+PAT313,Saanvi Pillai,male,48,132,84,91.0,09/01/2024,Pune
+PAT314,Myra Reddy,FEMALE,-4,113,83,88.0,2024-01-03,Hyderabad
+PAT315,Anika Pillai,Female,21,40,20,83.0,01-Mar-2024,Delhi
+PAT316,Kavya Menon,female,53,111,66,95.0,01/03/2024,Delhi
+PAT317,Riya Nair,F,26,106,71,79.0,2024-01-04,Bangalore
+PAT318,Meera Chauhan,Female,53,,76,76.0,2024-01-15,Bangalore
+PAT319,Sneha Reddy,MALE,20,112,73,92.0,03/02/2024,Mumbai
+PAT320,Rahul Singh,M,58,116/94,,,17/02/2024,Bangalore

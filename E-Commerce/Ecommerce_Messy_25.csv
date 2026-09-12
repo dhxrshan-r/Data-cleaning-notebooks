@@ -1,0 +1,28 @@
+OrderID,OrderDate,CustomerID,Product,Quantity,UnitPrice,TotalAmount,PaymentMode,OrderStatus
+ORD2007,2024-06-26,CUST514,Bluetooth Headphones,3,1299,4197.0,WALLET,Delivered
+ORD2001,2024-06-15,CUST512,Mechanical Keyboard,2,Rs.2499,4998,WALLET,Returned
+ORD2006,2024-06-29,CUST504,Mechanical Keyboard,2,2499,4998,WALLET,Returned
+ORD2024,16/06/2024,CUST512,USB-C Cable,1,199,199,Debit Card,Returned
+ORD2015,24-Jun-2024,CUST502,Wireless Mouse,3,499,1497,Cash on Delivery,Returned
+ORD2025,08/06/2024,CUST504,Smart Watch,3,3499,10497,Cash on Delivery,Delivered
+ORD2008,2024-06-09,CUST511,Wireless Mouse,2,499,1298.0,upi,Delivered
+ORD2019,2024-06-15,CUST507,Smart Watch,2,3499,6998,Cash on Delivery,Returned
+ORD2003,2024-06-11,CUST518,Webcam,1,1799,1799,Debit Card,Delivered
+ORD2009,02-Jun-2024,CUST513,Phone Case,2,299,598,upi,Delivered
+ORD2013,2024-06-18,CUST507,Smart Watch,-1,3499,Rs.3499,Debit Card,Delivered
+ORD2005,2024-06-02,CUST504,Laptop Stand,1,899,899,Debit Card,Returned
+ORD2018,17/06/2024,CUST503,Power Bank,1,1099,1099,Cash on Delivery,Delivered
+ORD2020,01-Jun-2024,CUST513,Webcam,3,1799,5697.0,upi,Delivered
+ORD2019,2024-06-15,CUST507,Smart Watch,2,3499,6998,Cash on Delivery,Returned
+ORD2022,27-Jun-2024,CUST503,Mechanical Keyboard,3,2499,₹7497,upi,Cancelled
+ORD2012,2024-06-18,CUST501,Desk Lamp,1,799,799,Cash on Delivery,Delivered
+ORD2002,01/06/2024,CUST511,Desk Lamp,4,799,3196,Cash on Delivery,Delivered
+ORD2017,13-Jun-2024,CUST508,Laptop Stand,1,899,899,Credit Card,Returned
+ORD2023,26-Jun-2024,CUST502,Wireless Mouse,-4,Rs.499,1996,Cash on Delivery,Delivered
+ORD2016,2024-06-20,CUST505,Mechanical Keyboard,1,2499,2499,upi,Returned
+ORD2014,21/06/2024,CUST503,Webcam,2,1799,3598,Wallet,Cancelled
+ORD2015,26-Jun-2024,CUST599,Smart Watch,1,3499,3499,Cash on Delivery,Delivered
+ORD2021,2024-06-04,CUST507,USB-C Cable,4,199,796,CreditCard,Delivered
+ORD2004,23/06/2024,CUST515,Smart Watch,2,3499,₹6998,WALLET,Delivered
+ORD2010,2024-06-14,CUST504,Webcam,1,1799,1799,UPI,Cancelled
+ORD2011,07-Jun-2024,CUST507,Power Bank,1,1099,₹1099,UPI,Delivered

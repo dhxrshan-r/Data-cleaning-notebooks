@@ -1,0 +1,52 @@
+StudentID,StudentName,Gender,Department,Python,SQL,Statistics,ExamDate
+STU150,Nikhil Patel,F, Computer Science ,55,39,98,2024-03-09
+STU136,Rekha Joshi,Female,Mechanical,83,94,48,2024-03-31
+STU102,Sanjay Chauhan,MALE,Computer Science,95,200,60,2024-03-11
+STU141,Rahul Patel,M,Data Science,62,NA,79,2024-02-30
+STU101,Ananya Verma,FEMALE,Data Science,44,60,61,22 Mar 2024
+STU123,Ishaan Iyer,Female,Mechanical,57,64,67,31-03-2024
+STU126,Vivaan Joshi,Female,Information Technology,59,43,76,2024-03-07
+STU132,Zoya Iyer,M,Electronics,57,97,NA,23-03-2024
+STU146,  Harsha Desai  ,m,Data Science,94,37,NA,2024-03-03
+STU133,Riya Bhatt,Male,Electronics,68,66,96,30-03-2024
+STU129,  Sneha Joshi  ,FEMALE,Electronics,44,63,38,03/02/2024
+STU147,Kavya Bose,MALE, Data Science ,42,98,97,16-03-2024
+STU140,Amit Bose,F, Mechanical ,70,57,84,2024-03-20
+STU117,Priya Sharma,Female,Mechanical,76,66,-5,2024-03-09
+STU113,Suresh Reddy, m , Electronics ,41,67,52,2024-03-31
+STU138,Lakshmi Iyer,M,Information Technology,67,NA,60,31/04/2024
+STU112,Akhil Bose,MALE,Data Science,85,43,78,21 Mar 2024
+STU118,  Vikram Pillai  ,M,Data Science,53,47,85,04-03-2024
+STU134,Sunita Malhotra,Female,Information Technology,83,35,55,2024-03-11
+STU148,Reyansh Das,Male,Information Technology,54,80,71,10-03-2024
+STU124,Naveen Bhatt,F,Computer Science,66,84,54,10-03-2024
+STU107,  Manoj Bhatt  ,Female,Data Science,NA,56,43,2024-03-30
+STU103,Varun Reddy, FEMALE ,Information Technology,81,92,84,2024-03-11
+STU131,Deepak Singh,Female,Electronics,76,97,64,03/21/2024
+ STU149,Rohan Sharma, MALE ,Computer Science,58,47,59,03/12/2024
+STU108,Saanvi Rao,FEMALE,Information Technology,55,39,NA,2024-03-14
+STU144,Karthik Kapoor,FEMALE,Computer Science,82,56,52,2024-03-19
+STU143,Swati Kapoor,M,Computer Science,NA,47,74,07-03-2024
+ STU105,Yash Malhotra,Male, Electronics ,-5,63,75,18 Mar 2024
+STU145,Tanvi Bose,M,Information Technology,59,88,86,2024-03-29
+STU139,Aditya Bhatt,F,Electronics,55,85,94,2024-03-13
+STU125,Neha Kumar,Female,Mechanical,47,42,76,2024-03-31
+STU137,Sai Rao,Female,Data Science,77,82,59,03/09/2024
+STU115,Aarav Menon,F,Electronics,96,74,52,2024-03-18
+STU119,Arjun Rao, Male ,Electronics,53,44,50,2024-03-21
+STU135,Vihaan Gupta,Female,Electronics,53,46,57,2024-03-03
+STU130,Myra Bose,m,Data Science,NA,86,89,2024-03-15
+STU116,Gita Chauhan,FEMALE,Data Science,36,83,51,2024-03-31
+STU110,Kiran Singh,M,Mechanical,105,91,87,25-03-2024
+STU114,Anika Joshi,Female,Computer Science,62,81,54,29-03-2024
+STU128,Anil Iyer,FEMALE,Mechanical,37,91,95,17-03-2024
+STU111,Diya Malhotra,Male,Information Technology,41,68,72,03/02/2024
+ STU122,Divya Desai,MALE,Mechanical,42,36,84,2024-03-15
+STU141,Rahul Patel,M,Data Science,62,NA,79,2024-02-30
+ STU120,Ravi Kumar,M,Information Technology,76,85,98,2024-03-29
+STU109,Nisha Rao,Male,Information Technology,97,83,66,30 Mar 2024
+STU127,Isha Menon,M,Information Technology,88,48,44,2024-03-21
+STU106,Meera Bhatt,m,Data Science,56,79,77,03/12/2024
+STU142,  Aadhya Menon  ,M,Computer Science,40,NA,91,2024-03-23
+STU121,Pooja Singh,m,Data Science,58,83,60,2024-03-23
+STU104,  Farhan Malhotra  ,F,Information Technology,38,105,55,23-03-2024

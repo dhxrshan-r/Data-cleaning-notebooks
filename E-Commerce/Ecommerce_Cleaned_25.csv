@@ -1,0 +1,26 @@
+OrderID,OrderDate,CustomerID,Product,Quantity,UnitPrice,TotalAmount,PaymentMode,OrderStatus
+ORD2007,2024-06-26,CUST514,Bluetooth Headphones,3,1299,3897,Wallet,Delivered
+ORD2001,2024-06-15,CUST512,Mechanical Keyboard,2,2499,4998,Wallet,Returned
+ORD2006,2024-06-29,CUST504,Mechanical Keyboard,2,2499,4998,Wallet,Returned
+ORD2024,2024-06-16,CUST512,USB-C Cable,1,199,199,Debit Card,Returned
+ORD2015,2024-06-24,CUST502,Wireless Mouse,3,499,1497,Cash on Delivery,Returned
+ORD2025,2024-06-08,CUST504,Smart Watch,3,3499,10497,Cash on Delivery,Delivered
+ORD2008,2024-09-06,CUST511,Wireless Mouse,2,499,998,UPI,Delivered
+ORD2019,2024-06-15,CUST507,Smart Watch,2,3499,6998,Cash on Delivery,Returned
+ORD2003,2024-11-06,CUST518,Webcam,1,1799,1799,Debit Card,Delivered
+ORD2009,2024-06-02,CUST513,Phone Case,2,299,598,UPI,Delivered
+ORD2013,2024-06-18,CUST507,Smart Watch,2,3499,6998,Debit Card,Delivered
+ORD2005,2024-02-06,CUST504,Laptop Stand,1,899,899,Debit Card,Returned
+ORD2018,2024-06-17,CUST503,Power Bank,1,1099,1099,Cash on Delivery,Delivered
+ORD2020,2024-06-01,CUST513,Webcam,3,1799,5397,UPI,Delivered
+ORD2022,2024-06-27,CUST503,Mechanical Keyboard,3,2499,7497,UPI,Cancelled
+ORD2012,2024-06-18,CUST501,Desk Lamp,1,799,799,Cash on Delivery,Delivered
+ORD2002,2024-06-01,CUST511,Desk Lamp,4,799,3196,Cash on Delivery,Delivered
+ORD2017,2024-06-13,CUST508,Laptop Stand,1,899,899,Credit Card,Returned
+ORD2023,2024-06-26,CUST502,Wireless Mouse,2,499,998,Cash on Delivery,Delivered
+ORD2016,2024-06-20,CUST505,Mechanical Keyboard,1,2499,2499,UPI,Returned
+ORD2014,2024-06-21,CUST503,Webcam,2,1799,3598,Wallet,Cancelled
+ORD2021,2024-04-06,CUST507,USB-C Cable,4,199,796,Credit Card,Delivered
+ORD2004,2024-06-23,CUST515,Smart Watch,2,3499,6998,Wallet,Delivered
+ORD2010,2024-06-14,CUST504,Webcam,1,1799,1799,UPI,Cancelled
+ORD2011,2024-06-07,CUST507,Power Bank,1,1099,1099,UPI,Delivered

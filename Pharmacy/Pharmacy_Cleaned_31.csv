@@ -1,0 +1,32 @@
+PrescriptionID,PatientID,DrugName,Quantity,Frequency,Status,Dose_mg
+RX4001,PAT317,Omeprazole,20.0,Thrice daily,Active,20.0
+RX4002,PAT318,Metformin,10.0,Twice daily,Completed,1000.0
+RX4003,PAT314,Metformin,30.0,Twice daily,Active,1000.0
+RX4004,,Cetirizine,15.0,Thrice daily,Active,10.0
+RX4005,PAT303,Metformin,10.0,As needed,Completed,1000.0
+RX4006,PAT320,Ibuprofen,20.0,Once daily,Completed,400.0
+RX4007,PAT312,Paracetamol,10.0,Every 8 hours,Completed,650.0
+RX4008,PAT319,Paracetamol,15.0,Once daily,Active,650.0
+RX4009,PAT308,Amlodipine,20.0,Once daily,Completed,5.0
+RX4010,PAT307,Ibuprofen,20.0,Thrice daily,Completed,400.0
+RX4011,PAT306,Amlodipine,20.0,Thrice daily,Active,5.0
+RX4012,PAT302,Amlodipine,30.0,Thrice daily,Completed,5.0
+RX4013,PAT302,Cetirizine,20.0,Once daily,Completed,10.0
+RX4014,PAT301,Ibuprofen,30.0,As needed,Completed,400.0
+RX4015,PAT306,Cetirizine,15.0,Once daily,Active,10.0
+RX4016,PAT302,Metformin,10.0,Once daily,Active,1000.0
+RX4017,PAT314,Amoxicillin,20.0,Every 8 hours,Completed,500.0
+RX4018,PAT303,Amoxicillin,15.0,As needed,Completed,250.0
+RX4019,PAT319,Ibuprofen,10.0,Every 8 hours,Completed,400.0
+RX4020,PAT316,Cetirizine,30.0,Once daily,Completed,10.0
+RX4021,PAT307,Cetirizine,20.0,Twice daily,Completed,10.0
+RX4022,PAT320,Paracetamol,12.5,Thrice daily,Active,650.0
+RX4023,PAT318,Cetirizine,20.0,Twice daily,Active,10.0
+RX4024,PAT310,Omeprazole,30.0,As needed,Active,20.0
+RX4025,PAT317,Amoxicillin,15.0,As needed,Active,250.0
+RX4026,PAT315,Azithromycin,15.0,As needed,Completed,500.0
+RX4027,PAT315,Paracetamol,20.0,Twice daily,Active,650.0
+RX4028,PAT315,Amlodipine,15.0,Once daily,Completed,10.0
+RX4029,PAT304,Paracetamol,10.0,Every 8 hours,Completed,500.0
+RX4030,PAT320,Cetirizine,10.0,Every 8 hours,Active,10.0
+RX4031,PAT301,Omeprazole,30.0,Once daily,Active,20.0

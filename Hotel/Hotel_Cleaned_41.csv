@@ -1,0 +1,41 @@
+BookingID,GuestID,Gender,Age,RoomType,RoomRate,BookingStatus,City
+BK5031,G901,Male,36,Standard,2900,Checked Out,Goa
+BK5018,G907,Male,33,Deluxe,4400,Confirmed,Bangalore
+BK5024,G909,Female,58,Deluxe,4000,Confirmed,Pune
+BK5033,G919,Male,50,Standard,2900,Checked Out,Goa
+BK5016,G907,Male,36,Executive,5500,Checked Out,Chennai
+BK5039,G910,Female,39,Standard,2500,Confirmed,Chennai
+BK5038,G906,Female,29,Standard,2300,Confirmed,Delhi
+BK5015,G915,Female,69,Executive,5300,Confirmed,Pune
+BK5004,G923,Male,26,Standard,2700,Confirmed,Goa
+BK5008,G914,Male,38,Executive,5500,Confirmed,Goa
+BK5006,G922,Male,26,Standard,2500,Confirmed,Bangalore
+BK5005,G907,Male,65,Suite,7000,Confirmed,Pune
+BK5028,G913,Male,58,Standard,2500,Cancelled,Chennai
+BK5007,G909,Female,33,Standard,2900,Checked Out,Mumbai
+BK5030,G906,Female,28,Standard,2900,Checked Out,
+BK5013,G923,Male,45,Standard,2900,Checked Out,Chennai
+BK5009,G903,Female,20,Executive,4400,Confirmed,Bangalore
+BK5029,G911,Female,56,Deluxe,4400,Confirmed,Mumbai
+BK5041,G912,Male,38,Executive,5900,Cancelled,Chennai
+BK5002,G910,Female,38,Standard,2500,Confirmed,Chennai
+BK5023,G917,Female,32,Executive,5500,Confirmed,Mumbai
+BK5025,G919,Female,38,Executive,5700,Confirmed,Bangalore
+BK5037,G903,Male,42,Executive,5500,Confirmed,Chennai
+BK5022,G905,Male,51,Deluxe,4400,Confirmed,Bangalore
+BK5020,G922,Male,47,Deluxe,4600,Cancelled,Chennai
+BK5001,G913,Female,33,Deluxe,4400,Checked Out,Goa
+BK5034,G902,Male,42,Deluxe,4200,Cancelled,Bangalore
+BK5021,G912,Female,41,Standard,2500,Checked Out,Goa
+BK5012,G906,Male,70,Standard,2300,Confirmed,Goa
+BK5010,G903,Male,23,Executive,5700,Cancelled,Pune
+BK5040,G923,Male,20,Deluxe,4200,Checked Out,Delhi
+BK5014,G920,Male,38,Deluxe,4400,Confirmed,Goa
+BK5003,G905,Male,38,Suite,6800,Confirmed,Goa
+BK5027,G916,Female,23,Deluxe,4400,Cancelled,Pune
+BK5036,G903,Female,61,Executive,5500,Checked Out,
+BK5026,G917,Female,38,Executive,5500,Cancelled,Mumbai
+BK5035,G925,Female,20,Suite,6600,Confirmed,Chennai
+BK5017,G910,Female,65,Standard,2500,Checked Out,Mumbai
+BK5011,G924,Female,53,Standard,2300,Cancelled,Delhi
+BK5019,G908,Male,50,Suite,6600,Confirmed,Chennai

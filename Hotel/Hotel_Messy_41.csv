@@ -1,0 +1,42 @@
+BookingID,GuestID,Gender,Age,RoomType,RoomRate,BookingStatus,City
+BK5031,G901,MALE,36,Standard,2900,Checked Out,Goa
+BK5018,G907,MALE,33,Deluxe,4400,Confirmed,Bangalore
+BK5024,G909,FEMALE,58,Deluxe,4000,confirmed,Pune
+BK5033,G919,Male,50,Standard,2900,Checked Out,GOA
+BK5016,G907,Male,36,Executive,5500,Checked Out,Chennai
+BK5039,G910,Female,39,Standard,2500,CONFIRMED,chennai
+BK5038,G906,F,29,Standard,₹2300,Confirmed,Delhi
+BK5015,G915,FEMALE,69,Executive,5300,confirmed,Pune
+BK5004,G923,male,26,Standard,2700,Confirmed,Goa
+BK5008,G914,M,38,Executive,5500,Confirmed,Goa
+BK5006,G922,Male,26,Standard,2500,Confirmed,BANGALORE
+BK5005,G907,Male,65,Suite,7000,Confirmed,PUNE
+BK5028,G913,male,58,Standard,Rs.2500,Cancelled,Chennai
+BK5007,G909,F,33,Standard,2900,Checked Out,MUMBAI
+BK5030,G906,Female,28,Standard,2900,Checked Out,
+BK5013,G923,male,45,Standard,2900,Checked Out,Chennai
+BK5009,G903,F,20,Executive,,Confirmed,Bangalore
+BK5029,G911,female,56,Deluxe,4400,Confirmed,mumbai
+BK5041,G912,Male,180,Executive,5900,Cancelled,CHENNAI
+BK5002,G910,F,-3,Standard,2500,CONFIRMED,chennai
+BK5023,G917,Female,32,Executive,₹5500,Confirmed,Mumbai
+BK5025,G919,F,38,Executive,5700,Confirmed,Bangalore
+BK5030,G906,Female,28,Standard,2900,Checked Out,
+BK5037,G903,male,42,Executive,5500,Confirmed,CHENNAI
+BK5022,G905,M,51,deluxe ,Rs.4400,Confirmed,bangalore
+BK5020,G922,Male,47,Deluxe,4600,Cancelled,CHENNAI
+BK5001,G913,FEMALE,33, Deluxe ,4400,Checked Out,GOA
+BK5034,G902,Male,42,deluxe ,4200,Cancelled,bangalore
+BK5021,G912,FEMALE,41,Standard,₹2500,Checked Out,GOA
+BK5012,G906,male,70,Standard,2300,Confirmed,goa
+BK5010,G903,M,23,Executive,5700,Cancelled,pune
+BK5040,G923,male,20,Deluxe,4200,Checked Out,DELHI
+BK5014,G920,male,, Deluxe,4400,Confirmed,goa
+BK5003,G905,M,,Suite,6800,Confirmed,Goa
+BK5027,G916,F,23,Deluxe,4400,Cancelled,PUNE
+BK5036,G903,FEMALE,61,Executive,5500,Checked Out,
+BK5026,G917,female,5,Executive,5500,Cancelled,Mumbai
+BK5035,G925,female,20,Suite,6600,CONFIRMED,Chennai
+BK5017,G910,Female,65,Standard,2500,Checked Out,MUMBAI
+BK5011,G924,FEMALE,53,Standard,Rs. 2300,Cancelled,Delhi
+BK5019,G908,MALE,50,Suite,6600,CONFIRMED,chennai
